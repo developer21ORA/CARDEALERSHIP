@@ -26,4 +26,6 @@ BEGIN
 	 
 	WHERE
 		CAR_ID = @CAR_ID
+
+	SELECT 1;
 END
